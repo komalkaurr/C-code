@@ -87,7 +87,3 @@ int main(void) {
     }
     return 0 ;
 }
-
-led_sequence.cpp
-Displaying led_sequence.cpp.
-
